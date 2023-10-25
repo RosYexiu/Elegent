@@ -1,3 +1,3 @@
 # My blog
-##Frist Blog
+This is my Frist Blog.
 
